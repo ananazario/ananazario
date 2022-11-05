@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-- 😝 Possuo conhecimento em Html, CSS, Bootstrap e JavaScript.
+- 😝 Possuo conhecimento em Html, CSS, JavaScript, React, Bootstrap e Tailwind.
 - ✍️ Estou me aprofundando na linguagem JavaScript.
 - 📫 Contate-me no email: anacarolinanazario98@gmail.com
 - 👩‍💻 Linkedin: www.linkedin.com/in/ana-nazario
