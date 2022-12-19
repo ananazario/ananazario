@@ -3,7 +3,6 @@
 - Dev Front-End
 - Possuo conhecimento em Html, CSS, JavaScript, React, Bootstrap, SASS e Tailwind.
 - Outros conhecimentos: SEO, UX Design, Scrum.
-- Estou me aprofundando em React.
 
 <div align="center">
   <a href="https://github.com/ananazario">
