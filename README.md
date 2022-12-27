@@ -27,7 +27,6 @@
   <a href="mailto:anacarolinanazario98@gmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-nazario/" target="_blank"><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
    [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ananazario&bg_color=72405b&color=ffd1fc&line=ff9ef9&point=ff80bd&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
