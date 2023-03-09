@@ -24,7 +24,7 @@
 <div style="display: inline_block" align="center"><br>
 <h2 align="center"> Banco de dados </h2>
   <img align="center" alt="SQL Server icon" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-  <img align="center" alt="MySQL icon" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="MySQL icon" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
 </div>
 
 <br>
